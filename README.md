@@ -4,7 +4,7 @@
 
 **Junior Web Developer · Morocco 🇲🇦**
 
-*Passionné par le Frontend & Backend · Always building real projects*
+*Passionné par le Backend · Always building real projects*
 
 </div>
 
