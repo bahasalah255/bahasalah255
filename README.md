@@ -1,7 +1,7 @@
 <div align="center">
 
 # Salah Eddine Baha
-**Junior Web Developer · Morocco  **
+**Junior Web Developer · Morocco**
 *Passionné par le Backend · Always building real projects*
 
 </div>
@@ -58,13 +58,13 @@ developer = {
 
 <p align="center">
   <a href="mailto:salaheddinebaha32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/salaheddine-baha-844201339">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://bahasalah255.github.io/Myportfolio/">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=firefox&logoColor=white"/>
   </a>
