@@ -49,7 +49,6 @@ developer = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bahasalah255&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahasalah255&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -62,11 +61,11 @@ developer = {
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/salaheddine-baha-844201339">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img height="30" src="https://cdn.simpleicons.org/linkedin/0A66C2"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://bahasalah255.github.io/Myportfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=firefox&logoColor=white"/>
+    <img height="30" src="https://cdn.simpleicons.org/githubpages/6C63FF"/>
   </a>
 </p>
 
