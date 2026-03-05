@@ -43,33 +43,7 @@ developer = {
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahasalah255&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-</p>
-
----
-
-## Let's Connect
-
-<p align="center">
-  <a href="mailto:salaheddinebaha32@gmail.com">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/salaheddine-baha-844201339">
-    <img height="30" src="https://cdn.simpleicons.org/linkedin/0A66C2"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://bahasalah255.github.io/Myportfolio/">
-    <img height="30" src="https://cdn.simpleicons.org/githubpages/6C63FF"/>
-  </a>
-</p>
-
----
 
 <div align="center">
 
