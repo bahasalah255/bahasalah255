@@ -16,7 +16,7 @@ developer = {
     "role":      "Junior Web Developer",
     "location":  "Morocco",
     "focus":     ["Clean Code", "Real Projects", "Continuous Learning"],
-    "learning":  ["Django REST Framework", "React", "Docker"],
+    "learning":  ["Laravel", "React", "n8n"],
     "motto":     "Build things. Break things. Learn everything."
 }
 ```
