@@ -2,7 +2,7 @@
 
 # Salah Eddine Baha
 **Junior Web Developer · Morocco**
-*Passionné par le Backend Devops · Always building real projects*
+*Passionné par le Backend · Always building real projects*
 
 </div>
 
